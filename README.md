@@ -1,8 +1,5 @@
-## This boilerplate has been modifed to better suite the needs of a personal project.
 
-## To run as is you MUST start TWO terminals. 
-
-To  run you MUSt start TWO terminals. One for client and one for Reacr App.
+To  run you MUSt start TWO terminals. One for client and one for React App.
 
 Client side
 
@@ -10,7 +7,7 @@ Step 1.) "cd client"
 
 Step 2.) "npm install"
 
-Step 3.) "npm start" (PLEASE USE "npm audit fix" if needed!)
+Step 3.) "npm start" (PLEASE USE "npm audit fix" if needed for Mongoose 5.7.4)
 
 React App (index.js)
 
