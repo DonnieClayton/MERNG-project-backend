@@ -3,11 +3,13 @@ To  run you MUSt start TWO terminals. One for client and one for React App.
 
 Client side
 
-Step 1.) "cd client"
+Step 1.) Rename the master folder to "client" (all lower case) and move inside the corresponding "MERNG front end project."
 
-Step 2.) "npm install"
+Step 2.) "cd client"
 
-Step 3.) "npm start" (PLEASE USE "npm audit fix" if needed for Mongoose 5.7.4)
+Step 3.) "npm install"
+
+Step 4.) "npm start" (PLEASE USE "npm audit fix" if needed for Mongoose 5.7.4)
 
 React App (index.js)
 
